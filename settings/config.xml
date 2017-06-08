@@ -62,6 +62,10 @@
          <note>Vul in het vak hieronder in wat voor beroep u heeft. Als u geen betaald werk heeft, kunt u het vak leeglaten.</note>
          <input type="textarea" required="false"></input>
           
+         <label>Woonwijk</label>
+         <note>Geef aan in welke wijk u woont.</note>
+         <input type="radio" required="true">Indische buurt;Museumkwartier</input>
+          
          <label>Woonduur</label>
          <note>Hoe lang woont u in uw huidige buurt? (in jaren)*</note>
          <input type="text" required="true" maxlength="2" restricted="0-9"></input>
@@ -95,9 +99,9 @@
         <input type="textarea" required="true"></input>
           
          <label>Terugkoppeling</label>
-         <note>Geef hieronder aan of u uw selectie tijdens een interview wilt toelichten. Dit interview zal 30 - 60 min duren en kan in overeenstemming plaatsvinden op elke gewenste locatie.*</note>
+         <note>Geef hieronder aan of u uw selectie tijdens een interview wilt toelichten. Dit interview zal 30 - 60 min duren en kan in overeenstemming op elke gewenste locatie plaatsvinden.*</note>
          <input type="radio" required="true">Ja;Nee</input>
-         <note>Vul hieronder uw emailadres of telefoonnummer in als u mee wilt doen aan het interview. Ook kunt u uw gegevens invullen als u interesse hebt in een samenvatting van de resultaten van dit onderzoek.</note>
+         <note>Vul hieronder uw emailadres of telefoonnummer in als u mee wilt doen aan het interview. Ook kunt u uw gegevens invullen als u interesse heeft in een samenvatting van de resultaten van dit onderzoek.</note>
          <input type="textarea" required="false"></input>
           
          <label>Opmerkingen</label>
