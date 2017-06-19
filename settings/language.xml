@@ -66,7 +66,7 @@
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Stap 1 van 5</item>
-  <item id="step1Text">Lees de volgende stellingen nauwkeurig door en verdeel ze over drie stapels: een stapel voor stellingen waar u het mee eens denkt te zijn, een stapel voor stellingen waar u het mee oneens denkt te zijn, en een stapel voor de rest.{br}{br}Om de stellingen te plaatsen kunt u deze slepen, of 1,2 of 3 drukken op uw toetsenbord. Aanpassingen van uw keuzes kunnen in de volgende stap doen. Verkeerd geplaatste stellingen kunnen naar een andere stapel gesleept worden.{br}{br}Als u deze instructie opnieuw wilt lezen, kunt op het vraagteken rechts onderaan het scherm drukken.{br}{br}NB: U hoeft niets te doen met de nummers voor de stellingen.{br{br}Voor vragen kunt mailen naar M.J.Lindner@uva.nl.</item>
+  <item id="step1Text">Lees de volgende stellingen nauwkeurig door en verdeel ze over drie stapels: een stapel voor stellingen waar u het mee eens denkt te zijn, een stapel voor stellingen waar u het mee oneens denkt te zijn, en een stapel voor de rest.{br}{br}Om de stellingen te plaatsen kunt u deze slepen, of 1,2 of 3 drukken op uw toetsenbord. Aanpassingen van uw keuzes kunnen in de volgende stap doen. Verkeerd geplaatste stellingen kunnen naar een andere stapel gesleept worden.{br}{br}Als u deze instructie opnieuw wilt lezen, kunt op het vraagteken rechts onderaan het scherm drukken.{br}{br}NB: U hoeft niets te doen met de nummers voor de stellingen.{br}{br}Voor vragen kunt mailen naar M.J.Lindner@uva.nl.</item>
 
   <!-- step2: sorting (leave blank to skip popup) -->
   <item id="step2Head">Stap 2 van 5</item>
