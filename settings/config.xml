@@ -63,7 +63,7 @@
          <input type="textarea" required="false"></input>
           
          <label>Woonwijk</label>
-         <note>Geef aan in welke wijk u woont.</note>
+         <note>Geef aan in welke wijk u woont.*</note>
          <input type="radio" required="true">Indische buurt;Museumkwartier</input>
           
          <label>Woonduur</label>
