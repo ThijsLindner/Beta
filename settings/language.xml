@@ -48,8 +48,6 @@
   <item id="errorHead">Foutmelding!</item>
   <item id="errorWindowTooSmall">Maximaliseer uw browser om gebruik te maken van deze applicatie.</item>
 
-  <!-- welcome screen (leave blank to skip screen) -->
-
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
   <item id="loginText">Please enter your user code. Please note, that in this demo any user code will be accepted.{br}{br}{i}Tip: This is an optional step and you can deactivate it in your own survey.{i}</item>
