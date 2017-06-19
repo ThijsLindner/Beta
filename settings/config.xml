@@ -101,11 +101,11 @@
          <label>Terugkoppeling</label>
          <note>Geef hieronder aan of u uw selectie tijdens een interview wilt toelichten. Dit interview zal 30 - 60 min duren en kan in overeenstemming op elke gewenste locatie plaatsvinden.*</note>
          <input type="radio" required="true">Ja;Nee</input>
-         <note>Vul hieronder uw emailadres of telefoonnummer in als u mee wilt doen aan het interview. Ook kunt u uw gegevens invullen als u interesse heeft in een samenvatting van de resultaten van dit onderzoek.</note>
+         <note>Vul hieronder uw emailadres of telefoonnummer in als u mee wilt doen aan het interview. Ook kunt u uw gegevens invullen als u interesse heeft in de resultaten van dit onderzoek.</note>
          <input type="textarea" required="false"></input>
           
          <label>Opmerkingen</label>
-         <note>Plaats hier uw opmerkingen over uw eigen achtergrond die u van belang acht in het kader van dit survey. U kunt dit veld leeglaten.</note>
+         <note>Plaats hier uw opmerkingen over uw eigen achtergrond die u van belang acht in het kader van dit onderzoek. U kunt dit veld ook  leeg laten.</note>
          <input type="textarea" required="false"></input>
 
          <note bg="false">Alle velden met een * zijn verplicht.</note>
