@@ -25,7 +25,7 @@
 <language version="1.0" htmlParse="true">
 
   <!-- misc -->
-  <item id="btnContinue">Verdergaan...</item>
+  <item id="btnContinue">Verder</item>
   <item id="btnclose">Sluiten</item>
   <item id="btnHelp">?</item>
   <item id="btnAgreement">Mee eens</item>
@@ -62,7 +62,7 @@
 
   <!-- introduction (leave blank to skip popup) -->
   <item id="introHead">Introductie</item>
-  <item id="introText">Dit is een onderzoek naar opvattingen over allochtonen onder autochtonen in Amsterdam. Het is onderdeel van het afstudeerproject van UvA student Thijs Lindner.{br}U gaat verschillende stellingen over etnische minderheden sorteren. Het onderzoek is volledig anoniem: de door u ingevulde gegevens kunnen niet naar u herleid worden, tenzij u dit zelf expliciet aangeeft.{br}{br}Sommige stellingen kunnen erg direct of licht aanstootgevend overkomen. Dit onderzoek heeft niet tot doel te beledigen of te discrimineren. Het doel is in kaart te brengen welke factoren samenhangen met opvattingen over etnische minderheden. Aan het eind van de studie heeft u de mogelijkheid opmerkingen of commentaar te plaatsen.{br}{br} Er worden verschillende termen gebruikt om groepen mensen aan te duiden. Uw interpretatie van deze begrippen is leidend en daarom zullen deze niet nader toegelicht worden.{br}{br}Maximaliseer uw browser om gebruik te maken van deze applicatie.</item>
+  <item id="introText">Dit is een onderzoek naar opvattingen over allochtonen onder autochtonen in Amsterdam, onderdeel van het afstudeerproject van UvA-student Thijs Lindner.{br}{br}U gaat verschillende stellingen over etnische minderheden sorteren. Hoe u dit moet doen wordt uitgelegd gedurende het onderzoek, lees deze uitleggen goed door.{br}{br}Sommige stellingen kunnen erg direct of licht aanstootgevend overkomen. Dit onderzoek heeft niet tot doel te beledigen of te discrimineren. Er wordt bestudeerd wat van invloed kan zijn op opvattingen over etnische minderheden en/of allochtonen. Wanneer u opmerkingen of commentaar heeft, dan is er de mogelijkheid deze aan het eind te plaatsen.{br}{br} Er worden verschillende termen gebruikt om groepen mensen aan te duiden. Het gaat om uw interpratie van deze groepen en daarom zullen deze niet verder toegelicht worden.{br}{br}Het onderzoek is volledig anoniem: de door u ingevulde gegevens kunnen niet naar u herleid worden, tenzij u dit zelf expliciet aangeeft.{br}{br}Maximaliseer uw browser om gebruik te maken van deze applicatie.</item>
 
   <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
   <item id="step1Head">Stap 1 van 5</item>
