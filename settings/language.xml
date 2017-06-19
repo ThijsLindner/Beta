@@ -49,8 +49,6 @@
   <item id="errorWindowTooSmall">Maximaliseer uw browser om gebruik te maken van deze applicatie.</item>
 
   <!-- welcome screen (leave blank to skip screen) -->
-  <item id="welcomeHead"></item>
-  <item id="welcomeText"></item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
