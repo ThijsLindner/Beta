@@ -49,8 +49,8 @@
   <item id="errorWindowTooSmall">Maximaliseer uw browser om gebruik te maken van deze applicatie.</item>
 
   <!-- welcome screen (leave blank to skip screen) -->
-  <item id="welcomeHead">Welkom</item>
-  <item id="welcomeText">Dit is een testversie van het onderzoeksinstrument voor het afstudeeronderzoek van Thijs Lindner naar etnische repertoires. Data zal in deze fase niet worden opgeslagen. {br}{br}Commentaar en bugmeldingen zijn welkom.{br}</item>
+  <item id="welcomeHead"></item>
+  <item id="welcomeText"></item>
 
   <!-- user login, only displayed if access is restricted (see config-file) -->
   <item id="loginHead">User code</item>
